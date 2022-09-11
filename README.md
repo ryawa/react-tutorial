@@ -1,2 +1,2 @@
-# react-tutorial
+# React Tutorial
 Code for the React tutorial
